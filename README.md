@@ -1,7 +1,7 @@
 # Ejercicios_Tema3_TecnicasDeProgramacion
 
 ## Nota:
-Mi repositorio es:
+Mi repositorio es: https://github.com/JorgeCadrecha/Ejercicios_Tema3_TecnicasDeProgramacion.git
 
 ## Enunciado
 1. El tiempo
